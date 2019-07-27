@@ -1,0 +1,59 @@
+2019-02-06 22:30:48,493 - tss.TssLib         - INFO     - All patterns are in sync for current block 'ATPG_POIPU'
+2019-02-06 23:30:07,674 - tss.TssLib         - INFO     - Pattern Name L7 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,680 - tss.TssLib         - INFO     - Pattern Name L12 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,685 - tss.TssLib         - INFO     - Pattern Name L3 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,690 - tss.TssLib         - INFO     - Pattern Name L13 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,695 - tss.TssLib         - INFO     - Pattern Name L2 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,700 - tss.TssLib         - INFO     - Pattern Name L5 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,704 - tss.TssLib         - INFO     - Pattern Name L1 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,709 - tss.TssLib         - INFO     - Pattern Name L10 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,714 - tss.TssLib         - INFO     - Pattern Name L11 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,719 - tss.TssLib         - INFO     - Pattern Name L14 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,724 - tss.TssLib         - INFO     - Pattern Name L9 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,728 - tss.TssLib         - INFO     - Pattern Name L16 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,732 - tss.TssLib         - INFO     - Pattern Name L6 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,735 - tss.TssLib         - INFO     - Pattern Name L15 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,739 - tss.TssLib         - INFO     - Pattern Name L4 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-06 23:30:07,744 - tss.TssLib         - INFO     - Pattern Name L8 = DEBUG will now be in sync with vector type PROD (hierarchy based)
+2019-02-08 01:10:26,543 - tss.TssLib         - INFO     - Pattern Name MBURST_tk_atpg_tdf_lpc_topF0_100MHz_svs_XMD = PROD will now be in sync with vector type EVAL (hierarchy based)
+2019-02-08 01:27:39,414 - tss.TssLib         - INFO     - Pattern Name MBURST_tk_atpg_tdf_lpc_topF0_100MHz_svs_XMD = PROD will now be in sync with vector type EVAL (hierarchy based)
+2019-02-17 21:51:10,935 - tss.TssLib         - INFO     - All patterns are in sync for current block 'APPS'
+2019-02-22 01:45:10,110 - tss.TssLib         - INFO     - All patterns are in sync for current block 'TEST_BLK1'
+2019-02-22 01:46:09,257 - tss.TssLib         - INFO     - All patterns are in sync for current block 'TEST_BLK1'
+2019-04-01 05:01:54,440 - tss.TssLib         - INFO     - Pattern Name MBURST_chip_jtag_jtag_idcode_test = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-01 05:01:54,447 - tss.TssLib         - INFO     - Pattern Name MBURST_jtag_bsop = PROD will now be in sync with vector type EVAL (hierarchy based)
+2019-04-01 05:10:09,677 - tss.TssLib         - INFO     - Pattern Name MBURST_ecc_native_modadd_test_ee0_vector_NOM_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-01 05:10:09,685 - tss.TssLib         - INFO     - Pattern Name MBURST_prng_data_randomness_test_NOM_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,812 - tss.TssLib         - INFO     - Pattern Name MBURST_mcdma_perf_qdss_SVS_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,824 - tss.TssLib         - INFO     - Pattern Name rffe_tic_pll_test_se_inst3 = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,837 - tss.TssLib         - INFO     - Pattern Name MBURST_mcdma_perf_qdss_TUR_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,847 - tss.TssLib         - INFO     - Pattern Name rffe_tic_pll_test_se_inst2 = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,855 - tss.TssLib         - INFO     - Pattern Name rffe_tic_pll_test_se_inst1 = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,873 - tss.TssLib         - INFO     - Pattern Name MBURST_APPS_access_to_tcm_axis2_NOM_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-04-02 01:10:37,880 - tss.TssLib         - INFO     - Pattern Name MSS_CXM_TX_TEST1 = PROD will now be in sync with vector type EVAL (hierarchy based)
+2019-04-02 02:03:47,010 - tss.TssLib         - INFO     - Pattern Name MBURST_clk_FP_CHK_NOM_XMD = PROD will now be in sync with vector type EVAL (hierarchy based)
+2019-04-09 01:22:41,264 - tss.TssLib         - INFO     - All patterns are in sync for current block 'JTAG'
+2019-04-09 01:25:18,314 - tss.TssLib         - INFO     - All patterns are in sync for current block 'MSS'
+2019-04-09 01:25:23,164 - tss.TssLib         - INFO     - All patterns are in sync for current block 'CLK_CTL'
+2019-04-09 23:22:11,392 - tss.TssLib         - INFO     - All patterns are in sync for current block 'JTAG'
+2019-04-09 23:24:19,462 - tss.TssLib         - INFO     - All patterns are in sync for current block 'MSS'
+2019-04-09 23:24:24,089 - tss.TssLib         - INFO     - All patterns are in sync for current block 'CLK_CTL'
+2019-04-10 03:03:44,877 - tss.TssLib         - INFO     - All patterns are in sync for current block 'JTAG'
+2019-05-03 22:48:24,930 - tss.TssLib         - INFO     - All patterns are in sync for current block 'MSS'
+2019-05-03 22:48:29,300 - tss.TssLib         - INFO     - All patterns are in sync for current block 'CLK_CTL'
+2019-05-16 07:50:34,398 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll0_over_assurance__turbo_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,403 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll0_over_assurance_turbo_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,407 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll0_over_assurance_nominal_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,411 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_mx_sensor__lv_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,416 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_mx_sensor__low_voltage_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,420 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_cx_sensor_lv_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,424 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_cx_sensor__low_voltage_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,428 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll0_over_assurance__nominal_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,432 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_vdda_sensor__low_voltage_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:50:34,436 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_vsense_vdda_sensor_lv_calib_XMD = EVAL will now be in sync with vector type PROD (hierarchy based)
+2019-05-16 07:52:14,291 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll1_char__421mhz_XMD = N will now be in sync with vector type Y
+2019-05-16 07:52:14,295 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_digital_fault_char_test__svs_XMD = N will now be in sync with vector type Y
+2019-05-16 07:52:14,299 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll1_char__651mhz_XMD = N will now be in sync with vector type Y
+2019-05-16 07:52:14,302 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll1_char__full_XMD = N will now be in sync with vector type Y
+2019-05-16 07:52:14,305 - tss.TssLib         - INFO     - Pattern Name MBURST_sp_freq_sensor__pll1_char__592mhz_XMD = N will now be in sync with vector type Y
+2019-05-16 07:53:39,822 - tss.TssLib         - INFO     - All patterns are in sync for current block 'SPSS'
